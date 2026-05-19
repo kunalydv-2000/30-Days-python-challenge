@@ -1,5 +1,7 @@
 # Python 30 days challenge
 
+---
+
 # Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
@@ -13,7 +15,7 @@
 ---
 
 # Day - 1
-## Variables = "variables are used to store data in programming languages.
+## Variables = variables are used to store data in programming languages.
 They can hold different types of data such as numbers, strings, and objects. 
 
 ## Data Types = the different types of data that can be stored in variables.
