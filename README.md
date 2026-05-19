@@ -1,5 +1,4 @@
 # Python 30 days challenge
----
 
 # Tools
 
@@ -13,11 +12,11 @@
 
 ---
 
-# day - 1
-## variables = "variables are used to store data in programming languages.
+# Day - 1
+## Variables = "variables are used to store data in programming languages.
 They can hold different types of data such as numbers, strings, and objects. 
 
-## data types = the different types of data that can be stored in variables.
+## Data Types = the different types of data that can be stored in variables.
 Some common data types include:
 - int: used to store whole numbers (e.g., 1, 2, 3)
 - float: used to store decimal numbers (e.g., 3.14, 2.5)
