@@ -12,10 +12,10 @@
 
 # Day - 1
 
-## Variables = variables are used to store data in programming languages.
+## * Variables = variables are used to store data in programming languages.
 They can hold different types of data such as numbers, strings, and objects. 
 
-## Data Types = the different types of data that can be stored in variables.
+## * Data Types = the different types of data that can be stored in variables.
 Some common data types include:
 - int: used to store whole numbers (e.g., 1, 2, 3)
 - float: used to store decimal numbers (e.g., 3.14, 2.5)
@@ -28,7 +28,7 @@ Some common data types include:
 - set: used to store an unordered collection of unique items (e.g., {1, 2, 3}, 
         {"apple", "banana", "cherry"})
 
-## input = the process of getting data from the user or another source.
+## * Input = the process of getting data from the user or another source.
 In programming, we can use the input() function to get input from the user. For example:
 ```pythonname = input("Enter your name: ")
 print("Hello, " + name + "!")
