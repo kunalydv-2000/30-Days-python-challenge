@@ -1,6 +1,6 @@
 # Python 30 days challenge
 
-# Tech sSack ⚙️
+# Tech Stack ⚙️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
