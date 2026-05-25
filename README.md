@@ -20,6 +20,15 @@ By the end of this challenge, you will have:
 - Create deployable applications
 - Prepare for Python developer roles
 ---
+## 🛠️ Technologies & Tools
+
+- **Core**: Python 3.10+
+- **Data**: NumPy, Pandas, Matplotlib, Seaborn
+- **Web**: Flask, FastAPI, BeautifulSoup, Requests
+- **Database**: SSMS(SQL server management studio) 
+- **Testing**: pytest
+- **Others**: Asyncio, Multithreading, JSON, CSV
+---
 
 # Tech Stack ⚙️
 
