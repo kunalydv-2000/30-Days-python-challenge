@@ -1,6 +1,24 @@
 ![kunalydv-2000](https://github.com/kunalydv-2000/data-analyst-project/blob/main/github-header-banner.png)
 
-# Python 30 days challenge
+**30 Days of Python** is a structured, intensive learning program designed to transform you from a Python beginner to an advanced programmer in just **30 days**.
+
+This roadmap focuses on **learning by doing** — every day you will learn important concepts and immediately apply them by building a practical mini project.
+
+By the end of this challenge, you will have:
+- Strong Python programming skills
+- 30+ working mini projects
+- A professional GitHub portfolio
+- Confidence to work on real-world Python applications
+---
+## 🎯 Goals
+
+- Build a solid foundation in Python
+- Master Object-Oriented Programming and advanced concepts
+- Learn popular libraries (NumPy, Pandas, Flask, etc.)
+- Develop problem-solving and debugging skills
+- Create deployable applications
+- Prepare for Python developer roles
+---
 
 # Tech Stack ⚙️
 
