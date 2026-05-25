@@ -18,8 +18,7 @@
     - CSV
     - Excel
     - TXT
-    -JSON
----
+    -JSON
 - Reading files
 - Writing files
 - Appending data 
