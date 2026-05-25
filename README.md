@@ -1,5 +1,6 @@
 ![kunalydv-2000](https://github.com/kunalydv-2000/data-analyst-project/blob/main/github-header-banner.png)
 
+## 📌 Overview
 **30 Days of Python** is a structured, intensive learning program designed to transform you from a Python beginner to an advanced programmer in just **30 days**.
 
 This roadmap focuses on **learning by doing** — every day you will learn important concepts and immediately apply them by building a practical mini project.
