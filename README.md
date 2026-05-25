@@ -1,3 +1,5 @@
+![kunalydv-2000](https://github.com/kunalydv-2000/data-analyst-project/blob/main/github-header-banner.png)
+
 # Python 30 days challenge
 
 # Tech Stack ⚙️
