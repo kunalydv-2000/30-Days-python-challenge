@@ -1,7 +1,7 @@
 <div align="center">
   <!--Banner-->
 
-  ![kunalydv-2000 Banner Image](https://github.com/kunalydv-2000/kunalydv-2000/blob/main/GitHub%20Banner/kunal-banner-svg.svg)
+  ![kunalydv-2000 zoro](https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/4400-roronoa-zoro.gif)
   
 </div>
 
