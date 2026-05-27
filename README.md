@@ -2,7 +2,7 @@
   <!--Banner-->
   <img src="https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/3.gif" 
        height="180" 
-       width="600" 
+       width="400" 
        alt="kunalydv-2000 Python">
 </div>
 ## 📌 Overview
