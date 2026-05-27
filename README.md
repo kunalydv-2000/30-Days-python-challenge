@@ -1,10 +1,10 @@
 <div align="center">
   <!--Banner-->
-
-  ![kunalydv-2000 Python](https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/3.gif)
-  
+  <img src="https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/3.gif" 
+       height="180" 
+       width="600" 
+       alt="kunalydv-2000 Python">
 </div>
-
 ## 📌 Overview
 **30 Days of Python** is a structured, intensive learning program designed to transform you from a Python beginner to an advanced programmer in just **30 days**.
 
