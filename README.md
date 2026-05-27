@@ -1,4 +1,9 @@
-![kunalydv-2000](https://github.com/kunalydv-2000/data-analyst-project/blob/main/github-header-banner.png)
+<div align="center">
+  <!--Banner-->
+
+  ![kunalydv-2000 Banner Image](https://github.com/kunalydv-2000/kunalydv-2000/blob/main/GitHub%20Banner/kunal-banner-svg.svg)
+  
+</div>
 
 ## 📌 Overview
 **30 Days of Python** is a structured, intensive learning program designed to transform you from a Python beginner to an advanced programmer in just **30 days**.
