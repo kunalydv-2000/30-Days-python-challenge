@@ -1,7 +1,7 @@
 <div align="center">
   <!--Banner-->
 
-  ![kunalydv-2000 zoro](https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/4400-roronoa-zoro.gif)
+  ![kunalydv-2000 Python](https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/3.gif)
   
 </div>
 
